@@ -1,0 +1,8 @@
+body{
+    /* background: rgb(242,211,215); */
+    background-image: linear-gradient(153deg, rgba(242,211,215,0.8379726890756303) 15%, rgba(180,238,250,0.8379726890756303) 100%);
+}
+.login-text{
+    color: #ff6b81;
+    font-weight: bold; 
+}
